@@ -17,4 +17,3 @@ def b2178():
             MAP[ny][nx] = MAP[y][x] + 1
 
     print(MAP[N - 1][M - 1] + 1)
-    pass
